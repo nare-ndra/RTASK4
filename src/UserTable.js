@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import 'D:/MERN INTERNSHIP/rtask4/src/UserTable.css'; 
+// import 'D:/MERN INTERNSHIP/rtask4/src/UserTable.css'; 
 
 
 const UserTable = () => {
